@@ -6,19 +6,15 @@ This repository contains a collection of Flutter projects that I have developed 
 
 ---
 
-<h2 align='center'>Table of Contents</h2>
-
-<ul>
-  <li><a href="#nsu-app">📱 NSU-App - Complete University Application</a></li>
-  <li><a href="#timetable">📅 Automatic Timetable Generator</a></li>
-  <li><a href="#datesheet">📆 Automatic Datesheet Generator</a></li>
-  <li><a href="#pos">🛒 POS Computer Application</a></li>
- 
-</ul>
+### 📂 Table of Contents
+- [NSU-App - Complete University Application](#nsu-app---complete-university-application)
+- [Automatic Datesheet Generator](#automatic-datesheet-generator)
+- [Automatic Timetable Generator](#automatic-timetable-generator)
+- [POS Computer Application](#pos-computer-application)
 
 ---
 
-<h2 align='center'> nsu-app</h2>
+## 📱 NSU-App - Complete University Application
 
 **Description:**
 My NSU is a comprehensive mobile application designed to improve campus life for students at National Skills University Islamabad. It acts as a central hub for all university-related activities and information.
@@ -55,7 +51,7 @@ Development: Android Studio, Xcode
 
 ---
 
-<h2 align='center'📅 Automatic Timetable Generator</h2>
+## 📅 Automatic Timetable Generator
 
 **Description:**
 This centralized web app generates optimized class schedules for institutions, handling constraints like teacher availability and room assignment.
@@ -82,7 +78,7 @@ Development: VS Code
 
 ---
 
-<h2 align='center'>📆 Automatic Datesheet Generator</h2>
+## 📆 Automatic Datesheet Generator
 
 **Description:**
 This project generates exam datesheets while resolving conflicts based on room capacity, program overlap, and repeat students.
@@ -110,7 +106,7 @@ Development: VS Code
 
 ---
 
-<h2 align='center'>🛒 POS Computer Application</h2>
+## 🛒 POS Computer Application
 
 **Description:**
 A Flutter-based POS system built for small businesses to manage sales, inventory, and analytics.
