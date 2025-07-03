@@ -2,7 +2,7 @@
 
 ### 📌 About this Repository
 
-This repository contains a collection of Flutter projects that I have developed for various university and commercial use cases.
+This repository contains a collection of Flutter projects that I have developed for my university and commercial use cases.
 
 ---
 
