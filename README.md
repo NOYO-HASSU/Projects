@@ -22,12 +22,12 @@
 <h2 align='center'>NSU-App</h2>
 
  <p>My NSU is a comprehensive mobile application designed to improve campus life for students at
-                            National Skills University Islamabad. The app serves as a central hub for all
-                            university-related
-                            activities and information.</p>
+    National Skills University Islamabad. The app serves as a central hub for all
+    university-related activities and information.</p>
 
-                        <h3>Key Features</h3>
-                        <ul>
+<p>
+<h2>Key Features</h2>
+<ul>
                             <li>Course management by Integration of LMS/UMS using rest API's.</li>
                             <li>Real-time notifications for class changes and university announcements using Firebase
                                 FCM</li>
@@ -41,7 +41,7 @@
                             <li>Student feedback and complaints system</li>
                             <li>Guest Mode to provide a limited-access guest mode that allows users to explore basic
                                 university resources without requiring login credentials</li>
-                        </ul>
+</ul>
 
                         <h3>Technologies Used</h3>
                         <p>Frontend: Flutter<br>
@@ -50,7 +50,7 @@
                             Development: Android Studio, Xcode</p>
                         </p>
 
-
+</p>
 
 <img src="images\NSU-App\gg.png">
  
