@@ -135,4 +135,4 @@ Development: VS Code
 
 ---
 
-Feel free to contact me for full details and source code of these projects.
+Feel free to contact me for full details and source code and live demo of these projects.
