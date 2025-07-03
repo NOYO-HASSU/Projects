@@ -7,11 +7,10 @@ This repository contains a collection of Flutter projects that I have developed 
 ---
 
 ### 📂 Table of Contents
-
-* [NSU-App - Complete University Application](#nsu-app---complete-university-application)
-* [Automatic Datesheet Generator](#automatic-datesheet-generator)
-* [Automatic Timetable Generator](#automatic-timetable-generator)
-* [POS Computer Application](#pos-computer-application)
+- [NSU-App - Complete University Application](#nsu-app---complete-university-application)
+- [Automatic Datesheet Generator](#automatic-datesheet-generator)
+- [Automatic Timetable Generator](#automatic-timetable-generator)
+- [POS Computer Application](#pos-computer-application)
 
 ---
 
