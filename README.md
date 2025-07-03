@@ -18,7 +18,7 @@ This repository contains a collection of Flutter projects that I have developed 
 
 ---
 
-<h2 align='center'>📱 NSU-App - Complete University Application</h2>
+<h2 align='center'> nsu-app</h2>
 
 **Description:**
 My NSU is a comprehensive mobile application designed to improve campus life for students at National Skills University Islamabad. It acts as a central hub for all university-related activities and information.
