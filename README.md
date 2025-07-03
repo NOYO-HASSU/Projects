@@ -42,7 +42,7 @@ My NSU is a comprehensive mobile application designed to improve campus life for
  
 ||||
 |--------------|--------------|--------------|
-| ![Screenshot 1](images\NSU-App\app1.jpg) | ![Screenshot 2](images/NSU-App/app2.jpg) | ![Screenshot 3](images/NSU-App/app3.jpg) | 
+| ![Screenshot 1](images/NSU-App/app1.jpg) | ![Screenshot 2](images/NSU-App/app2.jpg) | ![Screenshot 3](images/NSU-App/app3.jpg) | 
 | ![Screenshot 1](images/NSU-App/app4.jpg) | ![Screenshot 2](images/NSU-App/app5.jpg) | ![Screenshot 3](images/NSU-App/app6.jpg) | 
 
 <hr>
@@ -69,7 +69,7 @@ Reporting: Syncfusion PDF library
 
 |                                         |                                         |                                         |
 | --------------------------------------- | --------------------------------------- | --------------------------------------- |
-| ![Screenshot 1](<images\timetable\tt1.png>) | ![Screenshot 2](<images\timetable\tt2.png>) | ![Screenshot 3](<images\timetable\tt3.png>) |
+| ![Screenshot 1](<images/timetable/tt1.png>) | ![Screenshot 2](<images/timetable/tt2.png>) | ![Screenshot 3](<images/timetable/tt3.png>) |
 
 <hr>
 <h2 align='center'>Automatic-Datesheet-Generator</h2>
@@ -97,8 +97,8 @@ Development: VS code
 
 ||||
 |--------------|--------------|--------------|
-| ![Screenshot 1](images\datesheet\d1.png) | ![Screenshot 2](images\datesheet\d2.png) | ![Screenshot 3](images\datesheet\d3.png) | 
-| ![Screenshot 1](images\datesheet\d4.png) | ![Screenshot 2](images\datesheet\d5.png) | ![Screenshot 3](images\datesheet\d6.png) |
+| ![Screenshot 1](images/datesheet/d1.png) | ![Screenshot 2](images/datesheet/d2.png) | ![Screenshot 3](images/datesheet/d3.png) | 
+| ![Screenshot 1](images/datesheet/d4.png) | ![Screenshot 2](images/datesheet/d5.png) | ![Screenshot 3](images/datesheet/d6.png) |
 
 <hr>
 <h2 align='center'>POS Computer Application</h2>
@@ -126,5 +126,5 @@ Development: VS code
  
 ||||
 |--------------|--------------|--------------|
-| ![Screenshot 1](images\POS-Software\s1.png) | ![Screenshot 2](images\POS-Software\s2.png) | ![Screenshot 3](images\POS-Software\s3.png) | 
-| ![Screenshot 1](images\POS-Software\s4.png) | ![Screenshot 2](images\POS-Software\s5.png) | ![Screenshot 3](images\POS-Software\s6.png) |
+| ![Screenshot 1](images/POS-Software/s1.png) | ![Screenshot 2](images/POS-Software/s2.png) | ![Screenshot 3](images/POS-Software/s3.png) | 
+| ![Screenshot 1](images/POS-Software/s4.png) | ![Screenshot 2](images/POS-Software/s5.png) | ![Screenshot 3](images/POS-Software/s6.png) |
