@@ -36,7 +36,7 @@ My NSU is a comprehensive mobile application designed to improve campus life for
 
 **Technologies Used:**
 Frontend: Flutter
-Backend: Firebase, MySQL, other cloud systems
+Backend: Firebase, MySQL(UNI_DB_API), other cloud systems
 Design: Figma
 Development: Android Studio, Xcode
 
@@ -114,7 +114,7 @@ A Flutter-based POS system built for small businesses to manage sales, inventory
 
 **Key Features:**
 
-* Barcode scanning
+* Barcode scanning/Recipt Generation
 * Inventory tracking
 * Database backup/recovery
 * Reporting and analytics dashboard
@@ -123,7 +123,7 @@ A Flutter-based POS system built for small businesses to manage sales, inventory
 
 **Technologies Used:**
 Frontend/Backend: Flutter
-Database: SQL Server, SQLite
+Database: SQLite
 Reports: Syncfusion Reports
 Additional: Receipt printer & barcode scanner support
 Development: VS Code
@@ -136,4 +136,4 @@ Development: VS Code
 
 ---
 
-Feel free to explore each project for full details and source code.
+Feel free to contact me for full details and source code of these projects.
