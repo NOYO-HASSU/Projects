@@ -18,7 +18,7 @@ This repository contains a collection of Flutter projects that I have developed 
 
 ---
 
-## 📱 NSU-App - Complete University Application
+<h2 align='center'>📱 NSU-App - Complete University Application</h2>
 
 **Description:**
 My NSU is a comprehensive mobile application designed to improve campus life for students at National Skills University Islamabad. It acts as a central hub for all university-related activities and information.
@@ -55,7 +55,7 @@ Development: Android Studio, Xcode
 
 ---
 
-## 📅 Automatic Timetable Generator
+<h2 align='center'📅 Automatic Timetable Generator</h2>
 
 **Description:**
 This centralized web app generates optimized class schedules for institutions, handling constraints like teacher availability and room assignment.
@@ -82,7 +82,7 @@ Development: VS Code
 
 ---
 
-## 📆 Automatic Datesheet Generator
+<h2 align='center'>📆 Automatic Datesheet Generator</h2>
 
 **Description:**
 This project generates exam datesheets while resolving conflicts based on room capacity, program overlap, and repeat students.
@@ -110,7 +110,7 @@ Development: VS Code
 
 ---
 
-## 🛒 POS Computer Application
+<h2 align='center'>🛒 POS Computer Application</h2>
 
 **Description:**
 A Flutter-based POS system built for small businesses to manage sales, inventory, and analytics.
